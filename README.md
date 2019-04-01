@@ -1,6 +1,8 @@
-# Ng7Material
+# Angular Material
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+This project is a blend of Material integration into Angular 7 app. It also, replicates my take on the folder structure for an angular app.
+
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
 
